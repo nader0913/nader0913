@@ -25,3 +25,5 @@ I work on the software side of EV charging — the protocols and backend systems
 - 🌐 Blog — [charginginsider.com](https://charginginsider.com)
 - 💼 LinkedIn — [Nader Ouerdiane](https://www.linkedin.com/in/nader-ouerdiane-4a6b92142/)
 - ✉️ Email — [nader.business.mail@gmail.com](mailto:nader.business.mail@gmail.com)
+
+<!-- profile -->
