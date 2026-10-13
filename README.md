@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
-  <img alt="nader@github — Nader Ouerdiane, EV charging software engineer" src="./header-dark.svg" width="100%">
-</picture>
+<h1 align="center">Nader Ouerdiane</h1>
+<p align="center">EV charging software engineer · OCPP · ISO 15118 · building <a href="https://pluma.ink">Pluma</a></p>
 
 <p align="center">
   <a href="https://x.com/nader0913"><img src="https://img.shields.io/badge/X-@nader0913-000000?style=for-the-badge&logo=x&logoColor=white" alt="X @nader0913"></a>
