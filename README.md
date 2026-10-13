@@ -8,12 +8,11 @@
   <a href="https://charginginsider.com"><img src="https://img.shields.io/badge/Blog-Charging_Insider-2EA44F?style=for-the-badge&logo=astro&logoColor=white" alt="Charging Insider"></a>
 </p>
 
-```text
-$ whoami
-nader — software engineer on EV charging @ Alpitronic, Munich
-I build the software that lets chargers talk to the cloud and to cars:
-OCPP 1.6 / 2.0.1 · ISO 15118 · OCPI · charge point software · OCTT certification
-```
+### ▸ about
+
+I'm a software engineer on EV charging at [Alpitronic](https://www.alpitronic.com/) in Munich. I build the software that lets chargers talk to the cloud and to cars: OCPP 1.6 and 2.0.1, ISO 15118, OCPI, charge point software and OCTT certification.
+
+On the side I build [Pluma](https://pluma.ink), a block-based blogging platform, and write [Charging Insider](https://charginginsider.com) about how EV charging works under the hood.
 
 ### ▸ building
 
