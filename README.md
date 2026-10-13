@@ -20,7 +20,7 @@ OCPP 1.6 / 2.0.1 · ISO 15118 · OCPI · charge point software · OCTT certifica
 
 ### ▸ building
 
-| | |
+| project | what it is |
 |---|---|
 | ✒️ **[Pluma](https://pluma.ink)** | block-based blogging for writers: every element is a block, your own `username.pluma.ink`, markdown export, newsletter, no ads |
 | ⚡ **[Charging Insider](https://charginginsider.com)** | technical blog on how EV charging works under the hood: OCPP, ISO 15118, charger internals |
